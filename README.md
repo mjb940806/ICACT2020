@@ -10,7 +10,7 @@ $ apt install gcc
 ## Environment Variables
 ```command
 $ vi ~/.bashrc
-$ export CBMC=/path
+$ export PATH=$PATH:/path
 $ source ~/.bashrc
 ```
 - [EnvironmentVariables](https://help.ubuntu.com/community/EnvironmentVariables)
