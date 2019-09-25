@@ -40,6 +40,11 @@ $ cp filename /path
 
 # Running a Python Script in the Background
 $ nohup python file.py &
+
+# Displaying the status of jobs that were started in the current shell environment
+$ jobs
 ```
 - [How to compress files with tar command on Linux/Unix](https://www.cyberciti.biz/faq/tar-compress-command-on-linux-unix-to-create-tarball/)
 - [Linux Copy File Command](https://www.cyberciti.biz/faq/copy-command/)
+- [Differences between “<command> & disown” and “nohup <command> & disown”](https://askubuntu.com/questions/611968/differences-between-command-disown-and-nohup-command-disown)
+- [Ubuntu Manpage: jobs](http://manpages.ubuntu.com/manpages/trusty/man1/jobs.1posix.html)
